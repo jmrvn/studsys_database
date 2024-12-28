@@ -1,0 +1,168 @@
+C:\Users\ADMIN\source\repos\databaseprog\bin\Debug\databaseprog.exe.config
+C:\Users\ADMIN\source\repos\databaseprog\bin\Debug\databaseprog.exe
+C:\Users\ADMIN\source\repos\databaseprog\bin\Debug\databaseprog.pdb
+C:\Users\ADMIN\source\repos\databaseprog\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ADMIN\source\repos\databaseprog\bin\Debug\Google.Protobuf.dll
+C:\Users\ADMIN\source\repos\databaseprog\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ADMIN\source\repos\databaseprog\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ADMIN\source\repos\databaseprog\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ADMIN\source\repos\databaseprog\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ADMIN\source\repos\databaseprog\bin\Debug\MySql.Data.dll
+C:\Users\ADMIN\source\repos\databaseprog\bin\Debug\System.Buffers.dll
+C:\Users\ADMIN\source\repos\databaseprog\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ADMIN\source\repos\databaseprog\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ADMIN\source\repos\databaseprog\bin\Debug\System.IO.Pipelines.dll
+C:\Users\ADMIN\source\repos\databaseprog\bin\Debug\System.Memory.dll
+C:\Users\ADMIN\source\repos\databaseprog\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ADMIN\source\repos\databaseprog\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ADMIN\source\repos\databaseprog\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ADMIN\source\repos\databaseprog\bin\Debug\ZstdSharp.dll
+C:\Users\ADMIN\source\repos\databaseprog\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\ADMIN\source\repos\databaseprog\bin\Debug\Google.Protobuf.pdb
+C:\Users\ADMIN\source\repos\databaseprog\bin\Debug\Google.Protobuf.xml
+C:\Users\ADMIN\source\repos\databaseprog\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ADMIN\source\repos\databaseprog\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ADMIN\source\repos\databaseprog\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ADMIN\source\repos\databaseprog\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ADMIN\source\repos\databaseprog\bin\Debug\MySql.Data.xml
+C:\Users\ADMIN\source\repos\databaseprog\bin\Debug\System.Buffers.xml
+C:\Users\ADMIN\source\repos\databaseprog\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ADMIN\source\repos\databaseprog\bin\Debug\System.IO.Pipelines.xml
+C:\Users\ADMIN\source\repos\databaseprog\bin\Debug\System.Memory.xml
+C:\Users\ADMIN\source\repos\databaseprog\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ADMIN\source\repos\databaseprog\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ADMIN\source\repos\databaseprog\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ADMIN\source\repos\databaseprog\obj\Debug\databaseprog.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\databaseprog\obj\Debug\databaseprog.Form1.resources
+C:\Users\ADMIN\source\repos\databaseprog\obj\Debug\databaseprog.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\databaseprog\obj\Debug\databaseprog.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\databaseprog\obj\Debug\databaseprog.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\databaseprog\obj\Debug\databaseprog.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\databaseprog\obj\Debug\databaseprog.exe
+C:\Users\ADMIN\source\repos\databaseprog\obj\Debug\databaseprog.pdb
+D:\nuque_databaseprog\bin\Debug\databaseprog.exe.config
+D:\nuque_databaseprog\bin\Debug\databaseprog.exe
+D:\nuque_databaseprog\bin\Debug\databaseprog.pdb
+D:\nuque_databaseprog\bin\Debug\BouncyCastle.Crypto.dll
+D:\nuque_databaseprog\bin\Debug\Google.Protobuf.dll
+D:\nuque_databaseprog\bin\Debug\K4os.Compression.LZ4.dll
+D:\nuque_databaseprog\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\nuque_databaseprog\bin\Debug\K4os.Hash.xxHash.dll
+D:\nuque_databaseprog\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\nuque_databaseprog\bin\Debug\MySql.Data.dll
+D:\nuque_databaseprog\bin\Debug\System.Buffers.dll
+D:\nuque_databaseprog\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\nuque_databaseprog\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\nuque_databaseprog\bin\Debug\System.IO.Pipelines.dll
+D:\nuque_databaseprog\bin\Debug\System.Memory.dll
+D:\nuque_databaseprog\bin\Debug\System.Numerics.Vectors.dll
+D:\nuque_databaseprog\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\nuque_databaseprog\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\nuque_databaseprog\bin\Debug\ZstdSharp.dll
+D:\nuque_databaseprog\bin\Debug\BouncyCastle.Crypto.xml
+D:\nuque_databaseprog\bin\Debug\Google.Protobuf.pdb
+D:\nuque_databaseprog\bin\Debug\Google.Protobuf.xml
+D:\nuque_databaseprog\bin\Debug\K4os.Compression.LZ4.xml
+D:\nuque_databaseprog\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\nuque_databaseprog\bin\Debug\K4os.Hash.xxHash.xml
+D:\nuque_databaseprog\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\nuque_databaseprog\bin\Debug\MySql.Data.xml
+D:\nuque_databaseprog\bin\Debug\System.Buffers.xml
+D:\nuque_databaseprog\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\nuque_databaseprog\bin\Debug\System.IO.Pipelines.xml
+D:\nuque_databaseprog\bin\Debug\System.Memory.xml
+D:\nuque_databaseprog\bin\Debug\System.Numerics.Vectors.xml
+D:\nuque_databaseprog\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\nuque_databaseprog\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\nuque_databaseprog\obj\Debug\databaseprog.csproj.AssemblyReference.cache
+D:\nuque_databaseprog\obj\Debug\databaseprog.Form1.resources
+D:\nuque_databaseprog\obj\Debug\databaseprog.Properties.Resources.resources
+D:\nuque_databaseprog\obj\Debug\databaseprog.csproj.GenerateResource.cache
+D:\nuque_databaseprog\obj\Debug\databaseprog.csproj.CoreCompileInputs.cache
+D:\nuque_databaseprog\obj\Debug\databaseprog.csproj.CopyComplete
+D:\nuque_databaseprog\obj\Debug\databaseprog.exe
+D:\nuque_databaseprog\obj\Debug\databaseprog.pdb
+D:\my folder\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\databaseprog.exe.config
+D:\my folder\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\databaseprog.exe
+D:\my folder\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\databaseprog.pdb
+D:\my folder\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\BouncyCastle.Crypto.dll
+D:\my folder\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\Google.Protobuf.dll
+D:\my folder\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\K4os.Compression.LZ4.dll
+D:\my folder\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\my folder\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\K4os.Hash.xxHash.dll
+D:\my folder\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\my folder\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\MySql.Data.dll
+D:\my folder\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\System.Buffers.dll
+D:\my folder\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\my folder\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\my folder\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\System.IO.Pipelines.dll
+D:\my folder\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\System.Memory.dll
+D:\my folder\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\System.Numerics.Vectors.dll
+D:\my folder\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\my folder\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\my folder\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\ZstdSharp.dll
+D:\my folder\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\BouncyCastle.Crypto.xml
+D:\my folder\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\Google.Protobuf.pdb
+D:\my folder\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\Google.Protobuf.xml
+D:\my folder\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\K4os.Compression.LZ4.xml
+D:\my folder\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\my folder\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\K4os.Hash.xxHash.xml
+D:\my folder\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\my folder\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\MySql.Data.xml
+D:\my folder\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\System.Buffers.xml
+D:\my folder\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\my folder\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\System.IO.Pipelines.xml
+D:\my folder\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\System.Memory.xml
+D:\my folder\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\System.Numerics.Vectors.xml
+D:\my folder\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\my folder\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\my folder\SI SHARP\nuque_databaseprog\nuque_databaseprog\obj\Debug\databaseprog.csproj.AssemblyReference.cache
+D:\my folder\SI SHARP\nuque_databaseprog\nuque_databaseprog\obj\Debug\databaseprog.Form1.resources
+D:\my folder\SI SHARP\nuque_databaseprog\nuque_databaseprog\obj\Debug\databaseprog.Properties.Resources.resources
+D:\my folder\SI SHARP\nuque_databaseprog\nuque_databaseprog\obj\Debug\databaseprog.csproj.GenerateResource.cache
+D:\my folder\SI SHARP\nuque_databaseprog\nuque_databaseprog\obj\Debug\databaseprog.csproj.CoreCompileInputs.cache
+D:\my folder\SI SHARP\nuque_databaseprog\nuque_databaseprog\obj\Debug\database.77728771.Up2Date
+D:\my folder\SI SHARP\nuque_databaseprog\nuque_databaseprog\obj\Debug\databaseprog.exe
+D:\my folder\SI SHARP\nuque_databaseprog\nuque_databaseprog\obj\Debug\databaseprog.pdb
+C:\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\databaseprog.exe.config
+C:\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\databaseprog.exe
+C:\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\databaseprog.pdb
+C:\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\BouncyCastle.Crypto.dll
+C:\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\Google.Protobuf.dll
+C:\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\K4os.Compression.LZ4.dll
+C:\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\K4os.Hash.xxHash.dll
+C:\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\MySql.Data.dll
+C:\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\System.Buffers.dll
+C:\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\System.IO.Pipelines.dll
+C:\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\System.Memory.dll
+C:\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\System.Numerics.Vectors.dll
+C:\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\ZstdSharp.dll
+C:\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\BouncyCastle.Crypto.xml
+C:\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\Google.Protobuf.pdb
+C:\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\Google.Protobuf.xml
+C:\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\K4os.Compression.LZ4.xml
+C:\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\K4os.Hash.xxHash.xml
+C:\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\MySql.Data.xml
+C:\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\System.Buffers.xml
+C:\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\System.IO.Pipelines.xml
+C:\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\System.Memory.xml
+C:\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\System.Numerics.Vectors.xml
+C:\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\SI SHARP\nuque_databaseprog\nuque_databaseprog\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\SI SHARP\nuque_databaseprog\nuque_databaseprog\obj\Debug\databaseprog.csproj.AssemblyReference.cache
+C:\SI SHARP\nuque_databaseprog\nuque_databaseprog\obj\Debug\databaseprog.Form1.resources
+C:\SI SHARP\nuque_databaseprog\nuque_databaseprog\obj\Debug\databaseprog.Properties.Resources.resources
+C:\SI SHARP\nuque_databaseprog\nuque_databaseprog\obj\Debug\databaseprog.csproj.GenerateResource.cache
+C:\SI SHARP\nuque_databaseprog\nuque_databaseprog\obj\Debug\databaseprog.csproj.CoreCompileInputs.cache
+C:\SI SHARP\nuque_databaseprog\nuque_databaseprog\obj\Debug\database.77728771.Up2Date
+C:\SI SHARP\nuque_databaseprog\nuque_databaseprog\obj\Debug\databaseprog.exe
+C:\SI SHARP\nuque_databaseprog\nuque_databaseprog\obj\Debug\databaseprog.pdb
